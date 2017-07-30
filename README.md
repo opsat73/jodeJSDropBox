@@ -1,2 +1,3 @@
-# jodeJSDropBox
-learnign of nodeJS
+# nodeJsDropBox
+
+a [Sails](http://sailsjs.org) application
